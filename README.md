@@ -1,6 +1,6 @@
 # AI-Course-Project
 Nutri Mind
-
+project done by Mahnoor and alisha akhtar
 AI-Powered Nutrition Platform
 
 Nutrient Mind is a comprehensive nutrition platform that uses machine learning and AI to provide personalized nutrition planning and insights.
